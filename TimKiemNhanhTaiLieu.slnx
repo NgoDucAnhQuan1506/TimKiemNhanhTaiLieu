@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="QuanT07/QuanT07.vdproj" Type="Installer">
+    <Build />
+  </Project>
+  <Project Path="TimKiemNhanhTaiLieu/TimKiemNhanhTaiLieu.csproj" Id="3a50f920-0e73-4238-8778-ce2a7519b331" />
+</Solution>
